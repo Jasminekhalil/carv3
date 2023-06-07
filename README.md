@@ -6,6 +6,5 @@ This is the thrid version of my robot car. I designed and 3d printed a custom ch
 
 ## Visuals
 
-<p><img height=300 align="left" src="images/carv3.JPG"><img height=300 align="right" src="images/carv3.JPG"/></p>
-<p><img height=300 align="left" src="images/design.png"><img height=300 align="right" src="images/design.png"/></p>
-<p><img height=300 align="left" src="images/3d.JPG"><img height=300 align="right" src="images/3d.JPG"/></p>
+<p><img height=300 align="left" src="images/carv3.JPG"><img height=300 align="right" src="images/carv32.jpg"/></p>
+<p><img height=300 align="left" src="images/design.png"><img height=300 align="right" src="images/3d.JPG"/></p>
