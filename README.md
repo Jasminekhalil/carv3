@@ -6,8 +6,7 @@ This is the thrid version of my robot car. I designed and 3d printed a custom ch
 
 ## Visuals
 
-
-[Car V3.0 In Action]()
+[Car V3.0 In Action (Parallel Parking)](https://www.youtube.com/shorts/crqkkf1iVIA)
 
 <p><img height=300 align="center" src="images/carv3.png">
 
